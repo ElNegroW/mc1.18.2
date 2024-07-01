@@ -9,7 +9,7 @@
 # Código          Lugar
 #-----------      ---------------------------
 # ap	          Asia / Pacífico (Singapore)
-# au		      Australia 1(Sydney)
+# au		      Australia (Sydney)
 # eu		      Europa (Frankfurt)
 # in		      India (Mumbai)
 # jp		      Japón (Tokyo)
